@@ -497,7 +497,14 @@
       "version": 4
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "/OLED_Relays/SCL": [
+        "Signal"
+      ],
+      "/OLED_Relays/SDA": [
+        "Signal"
+      ]
+    },
     "netclass_patterns": [
       {
         "netclass": "Supply",
@@ -518,6 +525,14 @@
       {
         "netclass": "Supply",
         "pattern": "+3.3*"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "SDA"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "SCL"
       }
     ]
   },
