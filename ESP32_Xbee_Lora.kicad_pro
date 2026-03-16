@@ -498,7 +498,28 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Supply",
+        "pattern": "+12*"
+      },
+      {
+        "netclass": "GND",
+        "pattern": "GND*"
+      },
+      {
+        "netclass": "Supply",
+        "pattern": "+5*"
+      },
+      {
+        "netclass": "Supply",
+        "pattern": "V*"
+      },
+      {
+        "netclass": "Supply",
+        "pattern": "+3.3*"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
