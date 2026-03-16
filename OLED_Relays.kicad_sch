@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "589343d1-ac61-4fa7-89f7-9deae53f9aeb")
+	(paper "A4")
+	(title_block
+		(title "ESP32_Zigbee_LoRa")
+		(date "2026-03-16")
+		(rev "1.0")
+		(company "Logsun Systems")
+	)
+	(lib_symbols)
+)

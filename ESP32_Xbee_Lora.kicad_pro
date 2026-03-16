@@ -652,6 +652,22 @@
     [
       "99e6c4b3-8320-4218-aa5a-41657e7e07c6",
       "Root"
+    ],
+    [
+      "5d2eaf71-c887-4827-993c-d53b289e20c7",
+      "Controller"
+    ],
+    [
+      "0277d16f-7bc8-4de9-be5c-c06802e62271",
+      "Connectors & Modules"
+    ],
+    [
+      "710568c8-adb9-42c0-8ce2-5ce33ca9e218",
+      "LED_SW"
+    ],
+    [
+      "af18843e-6d7b-4dbe-8d8b-6012d560c096",
+      "OLED_Relays"
     ]
   ],
   "text_variables": {}
