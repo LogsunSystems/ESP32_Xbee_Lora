@@ -11,12 +11,12 @@
 		(company "Logsun Systems")
 	)
 	(lib_symbols
-		(symbol "LOGSUN:Xbee_MOD"
+		(symbol "LOGSUN:Wireless_MOD"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "M"
-				(at 0 4.572 0)
+				(at 0 9.652 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -58,16 +58,28 @@
 					(hide yes)
 				)
 			)
-			(symbol "Xbee_MOD_0_1"
+			(symbol "Wireless_MOD_0_1"
 				(rectangle
-					(start -3.302 3.302)
-					(end 6.096 -5.588)
+					(start -6.096 8.128)
+					(end 8.89 -5.588)
 					(stroke
 						(width 0)
 						(type default)
 					)
 					(fill
 						(type none)
+					)
+				)
+			)
+			(symbol "Wireless_MOD_1_1"
+				(text "Wireless\nModule"
+					(at 1.778 3.302 0)
+					(effects
+						(font
+							(size 2.27 2.27)
+							(thickness 0.454)
+							(bold yes)
+						)
 					)
 				)
 			)
@@ -682,6 +694,69 @@
 		)
 	)
 	(symbol
+		(lib_id "LOGSUN:Wireless_MOD")
+		(at 259.08 34.29 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a3ad61b4-6336-45f8-8c9e-a0d986b7da23")
+		(property "Reference" "M1"
+			(at 258.572 24.892 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Wireless_Module"
+			(at 252.984 41.402 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 259.08 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 259.08 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 259.08 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/99e6c4b3-8320-4218-aa5a-41657e7e07c6/0277d16f-7bc8-4de9-be5c-c06802e62271"
+					(reference "M1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Logsun_Logo:LOGO")
 		(at 259.08 173.99 0)
 		(unit 1)
@@ -740,69 +815,6 @@
 			(project "ESP32_Xbee_Lora"
 				(path "/99e6c4b3-8320-4218-aa5a-41657e7e07c6/0277d16f-7bc8-4de9-be5c-c06802e62271"
 					(reference "#G3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LOGSUN:Xbee_MOD")
-		(at 241.3 46.99 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e165bb3e-08db-4389-b2e1-93ddf64d5cfa")
-		(property "Reference" "M1"
-			(at 238.252 53.848 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Xbee_MOdule"
-			(at 236.728 42.164 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LOGSUN:LGS-KC-Zbee_Mod"
-			(at 241.3 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 241.3 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 241.3 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project ""
-				(path "/99e6c4b3-8320-4218-aa5a-41657e7e07c6/0277d16f-7bc8-4de9-be5c-c06802e62271"
-					(reference "M1")
 					(unit 1)
 				)
 			)
