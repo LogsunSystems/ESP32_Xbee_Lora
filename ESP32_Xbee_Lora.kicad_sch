@@ -851,6 +851,48 @@
 			)
 		)
 	)
+	(sheet
+		(at 101.854 25.4)
+		(size 24.892 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "af5a217c-a67d-4c8d-bb01-5522e265be76")
+		(property "Sheetname" "RGB_POT_Sensors"
+			(at 101.854 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RGB_POT_Sensors.kicad_sch"
+			(at 101.854 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP32_Xbee_Lora"
+				(path "/99e6c4b3-8320-4218-aa5a-41657e7e07c6"
+					(page "6")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

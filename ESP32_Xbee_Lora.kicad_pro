@@ -683,6 +683,10 @@
     [
       "af18843e-6d7b-4dbe-8d8b-6012d560c096",
       "OLED_Relays"
+    ],
+    [
+      "af5a217c-a67d-4c8d-bb01-5522e265be76",
+      "RGB_POT_Sensors"
     ]
   ],
   "text_variables": {}
