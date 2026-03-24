@@ -1,0 +1,250 @@
+(footprint "D_DO-201AD_P15.24mm_Horizontal"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Diode, DO-201AD series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.5*5.2mm^2, http://www.diodes.com/_files/packages/DO-201AD.pdf")
+	(tags "Diode DO-201AD series Axial Horizontal pin pitch 15.24mm  length 9.5mm diameter 5.2mm")
+	(property "Reference" "REF**"
+		(at 7.62 -3.72 0)
+		(layer "F.SilkS")
+		(uuid "3d3b9b06-b44c-4b2b-894a-35a036bfc5db")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "1N5822"
+		(at 7.62 3.72 0)
+		(layer "F.Fab")
+		(uuid "32e4c6e0-4305-405d-9d50-a1b5d5d5f58c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "http://www.vishay.com/docs/88526/1n5820.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "07435be6-55b6-44fe-8a5a-4b777ce993ba")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "40V 3A Schottky Barrier Rectifier Diode, DO-201AD"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "997e9606-573f-4416-ab86-55bb0788d5da")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 1.84 0)
+		(end 2.75 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "de178ff9-33a1-4bb4-a64e-6d6e9bcbbd0a")
+	)
+	(fp_line
+		(start 4.175 -2.72)
+		(end 4.175 2.72)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c2fb8d36-8026-4743-a309-a10d36b4cfe1")
+	)
+	(fp_line
+		(start 4.295 -2.72)
+		(end 4.295 2.72)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "66cba5e4-ab70-485a-9e97-261dcb361ad5")
+	)
+	(fp_line
+		(start 4.415 -2.72)
+		(end 4.415 2.72)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f7d86b3a-8589-459f-b204-0c99797511cd")
+	)
+	(fp_line
+		(start 13.4 0)
+		(end 12.49 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1324e7ef-ba02-4f96-a26f-ce836c6b42c9")
+	)
+	(fp_rect
+		(start 2.75 -2.72)
+		(end 12.49 2.72)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "819b0b6e-973b-4b6b-aebf-3668eb4898f0")
+	)
+	(fp_rect
+		(start -1.85 -2.85)
+		(end 17.09 2.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "6510009b-5898-40bc-b05a-d0ff1e28f6e5")
+	)
+	(fp_line
+		(start 0 0)
+		(end 2.87 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "09c32334-cf34-4bea-bf5b-6c7b957073bc")
+	)
+	(fp_line
+		(start 4.195 -2.6)
+		(end 4.195 2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "740ad497-018a-438e-b6ce-964cb5cd5965")
+	)
+	(fp_line
+		(start 4.295 -2.6)
+		(end 4.295 2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "66d2c91c-69c9-4ba9-abdb-f6c28f998110")
+	)
+	(fp_line
+		(start 4.395 -2.6)
+		(end 4.395 2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0bddcc2f-b884-4275-9cfd-4f011d033c56")
+	)
+	(fp_line
+		(start 15.24 0)
+		(end 12.37 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6b6e7a77-bdd2-4c5e-aa61-b5c1248f4d1a")
+	)
+	(fp_rect
+		(start 2.87 -2.6)
+		(end 12.37 2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "8d56ab82-afaa-4210-b5d7-2256df7eda9a")
+	)
+	(fp_text user "K"
+		(at 0 -2.6 0)
+		(layer "F.SilkS")
+		(uuid "89847386-44ef-4066-b86c-dec3f3d8e569")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "K"
+		(at 0 -2.6 0)
+		(layer "F.Fab")
+		(uuid "31b7b0f9-48f1-40af-8c16-090588685c8d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 8.3325 0 0)
+		(layer "F.Fab")
+		(uuid "c63ad765-d930-411e-8fbc-2857477c6bfb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 0)
+		(size 3.2 3.2)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.078125)
+		(uuid "c9d0e6bb-c2c2-49ab-9c26-a03e5a50e8f7")
+	)
+	(pad "2" thru_hole circle
+		(at 15.24 0)
+		(size 3.2 3.2)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9ae4e6e1-4c78-48d2-a990-1cea538f8db3")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-201AD_P15.24mm_Horizontal.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

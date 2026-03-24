@@ -266,7 +266,7 @@
 	(net 180 "unconnected-(U3-~{DSR}-Pad10)")
 	(net 181 "unconnected-(U3-~{RI}-Pad11)")
 	(net 182 "unconnected-(U3-~{CTS}-Pad9)")
-	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "021a5824-f361-4281-b923-f5ee488cf122")
 		(at 143.9475 103.79)
@@ -407,7 +407,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "02436172-1ba1-4fd9-b850-2b17a835be26")
 		(at 256.81 131.3)
@@ -548,7 +548,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-23"
+	(footprint "ESP32_Xbee_LoRa:SOT-23"
 		(layer "F.Cu")
 		(uuid "02e1d4f2-67b4-4d39-b516-a5e877d79008")
 		(at 249.81 138.8)
@@ -939,7 +939,7 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+	(footprint "ESP32_Xbee_LoRa:MountingHole_3.2mm_M3_Pad_Via"
 		(layer "F.Cu")
 		(uuid "040f6a38-42ac-499f-911b-aa805f223d0c")
 		(at 296.337056 64.342944)
@@ -1112,7 +1112,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "07273798-297e-410e-b16a-b2c1e91b6a72")
 		(at 190.23 129.09)
@@ -1253,7 +1253,7 @@
 			)
 		)
 	)
-	(footprint "Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical"
+	(footprint "ESP32_Xbee_LoRa:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "0963fc08-a0af-4699-963b-7e30ab602cfd")
 		(at 281.64 170.14 90)
@@ -1531,7 +1531,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-B3F-10XX"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-B3F-10XX"
 		(layer "F.Cu")
 		(uuid "0ec48dfb-722a-486b-a680-dedd824fdea6")
 		(at 109.7788 167.3606)
@@ -2207,7 +2207,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-ML10-CONTROLLER"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-ML10-CONTROLLER"
 		(layer "F.Cu")
 		(uuid "0f2df569-a9a1-4ddc-bf80-0db731b33f77")
 		(at 166.357 124.452)
@@ -3104,7 +3104,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "LOGSUN:LGS-KC-B3F-10XX"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-B3F-10XX"
 		(layer "F.Cu")
 		(uuid "11682775-94c2-4816-ba0f-ac1fe498685d")
 		(at 205.8858 210.1088 90)
@@ -3780,7 +3780,7 @@
 			)
 		)
 	)
-	(footprint "Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical"
+	(footprint "ESP32_Xbee_LoRa:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "11ab10fa-72b1-44f5-9458-dcf384927853")
 		(at 145.08 206.23 -90)
@@ -4069,7 +4069,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-MS42"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-MS42"
 		(layer "F.Cu")
 		(uuid "123f3f1d-cd81-4542-910f-364149c98248")
 		(at 156.01 94.58 90)
@@ -4402,7 +4402,7 @@
 			)
 		)
 	)
-	(footprint "LED_SMD:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
+	(footprint "ESP32_Xbee_LoRa:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
 		(layer "F.Cu")
 		(uuid "14ef3b2b-f28b-4176-a1db-b300ee09e538")
 		(at 124.731 137.5773)
@@ -4645,7 +4645,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "16fee7ac-b845-42fc-9d78-d6416b4691a0")
 		(at 190.23 132.04)
@@ -4786,7 +4786,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "1733435a-2ebb-48f5-a023-27e83db96753")
 		(at 203.9898 200.7776 90)
@@ -4927,7 +4927,7 @@
 			)
 		)
 	)
-	(footprint "Connector_JST:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical"
+	(footprint "ESP32_Xbee_LoRa:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "18dd6da9-4428-4bf7-b908-32b90a4af89d")
 		(at 145.08 189.31 -90)
@@ -5227,7 +5227,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "19bf7c59-2edf-43a7-84ce-73e3fe3ba5c9")
 		(at 131.0425 125.73)
@@ -5368,7 +5368,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "1f3bdb36-c88f-4cc6-afd4-2ee6fb7c6942")
 		(at 190.23 126.14)
@@ -5509,7 +5509,7 @@
 			)
 		)
 	)
-	(footprint "Diode_THT:Diode_Bridge_Round_D9.8mm"
+	(footprint "ESP32_Xbee_LoRa:Diode_Bridge_Round_D9.8mm"
 		(layer "F.Cu")
 		(uuid "23255c90-4730-47b0-a9d8-407711d65e37")
 		(at 102.67 92.04)
@@ -5716,7 +5716,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-VALCON_CSP-USC16-TR"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-VALCON_CSP-USC16-TR"
 		(layer "F.Cu")
 		(uuid "2527b543-56e2-45e6-875d-21aa00d268fc")
 		(at 103.944863 124.585967 -90)
@@ -6248,7 +6248,7 @@
 			)
 		)
 	)
-	(footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "25eef382-65e8-433c-8ad8-15eed8167421")
 		(at 222.71 188.95 90)
@@ -6453,7 +6453,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-Wireless_Mod"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-Wireless_Mod"
 		(layer "F.Cu")
 		(uuid "2ac6e1e4-d222-4a8f-b7ea-d06aaffcd7c4")
 		(at 265.4941 93.37145)
@@ -6865,7 +6865,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-23"
+	(footprint "ESP32_Xbee_LoRa:SOT-23"
 		(layer "F.Cu")
 		(uuid "2c8786d5-a11b-4a07-997c-e35c44e3c0cc")
 		(at 249.81 134.35)
@@ -7256,7 +7256,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "2d112739-3396-4ae1-a227-8c0e798162b1")
 		(at 267.7 194.56)
@@ -7397,7 +7397,7 @@
 			)
 		)
 	)
-	(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal"
+	(footprint "ESP32_Xbee_LoRa:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "2dd986d0-1587-4958-a3de-714aa2fb7e1f")
 		(at 293.37 134.62 90)
@@ -7788,7 +7788,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "336141b0-abfa-4efd-b1dc-faeec0675a67")
 		(at 132.901 117.2573)
@@ -7929,7 +7929,7 @@
 			)
 		)
 	)
-	(footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "35d1023e-19be-49d4-96ec-5b65956a351c")
 		(at 206.55 188.95 90)
@@ -8134,7 +8134,7 @@
 			)
 		)
 	)
-	(footprint "LED_SMD:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
+	(footprint "ESP32_Xbee_LoRa:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
 		(layer "F.Cu")
 		(uuid "36fde9ef-8131-4de4-9344-e7710275af8e")
 		(at 138.82 113.62)
@@ -8377,7 +8377,7 @@
 			)
 		)
 	)
-	(footprint "Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical"
+	(footprint "ESP32_Xbee_LoRa:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "37359181-fcd5-4e9f-8042-3cce40267910")
 		(at 192.64 83.03 90)
@@ -8666,7 +8666,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "387fcf6f-e26e-43e9-90e9-ffb8d0dbea6e")
 		(at 256.81 125.4)
@@ -8807,7 +8807,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "393e2698-554a-4947-b41e-371c5c3f8bef")
 		(at 226.9352 200.7776 90)
@@ -8948,7 +8948,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "39ad4e11-1e00-432c-b943-09d6e129c858")
 		(at 194.98 129.09)
@@ -9089,7 +9089,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "3ac2ca4f-3a76-4657-a1b7-ebedb48627e4")
 		(at 157.8025 180.18)
@@ -9230,7 +9230,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "3ccaa110-310f-4ecb-8325-cc9ab90a7bc3")
 		(at 122.741 119.8373)
@@ -9371,7 +9371,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "3f8a3328-a7c0-4220-8a31-f5de00480696")
 		(at 122.741 122.7873)
@@ -9512,7 +9512,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "429ad5f7-b549-48ad-890f-5af3a86be5b4")
 		(at 267.7 191.61)
@@ -9653,7 +9653,7 @@
 			)
 		)
 	)
-	(footprint "Display:HDSP-4830"
+	(footprint "ESP32_Xbee_LoRa:HDSP-4830"
 		(layer "F.Cu")
 		(uuid "44944fd8-6e5a-4429-b9b5-7d569eca38ac")
 		(at 199.8975 116.0875)
@@ -10106,7 +10106,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "449c8784-d2d1-4214-a0a1-8924b810c64b")
 		(at 210.815 183.77 90)
@@ -10247,7 +10247,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "4ab099d0-5a8b-4873-861b-08a503bce37c")
 		(at 194.98 126.14)
@@ -10388,7 +10388,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "4b3c2020-7df4-4071-9827-9966c61c5514")
 		(at 122.741 128.6873)
@@ -10529,7 +10529,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-SLIDE"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-SLIDE"
 		(layer "F.Cu")
 		(uuid "4c077ad9-37ef-4b3e-9150-e76ab17876a4")
 		(at 121.72 89 180)
@@ -10698,7 +10698,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "LOGSUN:LGS-KC-ML10_INTERFACE"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-ML10_INTERFACE"
 		(layer "F.Cu")
 		(uuid "4dde3a88-409b-453e-b1db-3ec347268473")
 		(at 183.28 122.33)
@@ -11593,7 +11593,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "52ba32a4-1d07-4c05-9d5f-1b83c78fdecf")
 		(at 131.0425 130.81)
@@ -11734,7 +11734,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-23"
+	(footprint "ESP32_Xbee_LoRa:SOT-23"
 		(layer "F.Cu")
 		(uuid "532f91f9-ca0b-49a9-94f5-c95208052da5")
 		(at 124.71 104.27)
@@ -12099,7 +12099,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "53560cd9-171c-4713-80f7-1af4335efe31")
 		(at 145.331 135.0373)
@@ -12240,7 +12240,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "572e7e05-de84-407e-8120-e9cfb7d0b18a")
 		(at 134.29 110.22)
@@ -12381,7 +12381,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-ML10_INTERFACE"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-ML10_INTERFACE"
 		(layer "F.Cu")
 		(uuid "59783a5a-2ba6-4597-8a72-10f01be666d5")
 		(at 181.61 181.61)
@@ -13276,7 +13276,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "5a31cabd-6284-4869-9d59-1e6a02729a59")
 		(at 256.81 128.35)
@@ -13417,7 +13417,7 @@
 			)
 		)
 	)
-	(footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+	(footprint "ESP32_Xbee_LoRa:D_DO-41_SOD81_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "5a35295d-85e0-473b-b7ad-fefa6d83fd25")
 		(at 161.96 108.54 90)
@@ -13676,7 +13676,7 @@
 			)
 		)
 	)
-	(footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "5b95fdb6-c666-4e43-b5de-287fdfeb1cad")
 		(at 214.63 188.95 90)
@@ -13881,7 +13881,7 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+	(footprint "ESP32_Xbee_LoRa:MountingHole_3.2mm_M3_Pad_Via"
 		(layer "F.Cu")
 		(uuid "5ddd26df-0c25-4633-b516-8ff2ddb592cb")
 		(at 295.77 217.17)
@@ -14054,7 +14054,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "6056c801-18a5-4cfe-8833-a8db294e2c47")
 		(at 139.1375 106.8)
@@ -14195,7 +14195,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-ML10_INTERFACE"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-ML10_INTERFACE"
 		(layer "F.Cu")
 		(uuid "61769e3d-12c2-4d99-8850-683126886783")
 		(at 183.28 145.19)
@@ -15090,7 +15090,7 @@
 			)
 		)
 	)
-	(footprint "LED_SMD:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
+	(footprint "ESP32_Xbee_LoRa:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
 		(layer "F.Cu")
 		(uuid "618af935-fc6c-4f59-8c68-a9d5b00f4af2")
 		(at 124.731 133.5373)
@@ -15333,7 +15333,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "6440325b-2ba3-4012-a46c-8764620d4baa")
 		(at 143.9475 106.8)
@@ -15474,7 +15474,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "64ea7f16-182d-4f18-86ac-1471f8724bc1")
 		(at 194.98 120.24)
@@ -15615,7 +15615,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "67124a05-4767-4774-9c3f-8d73b28181f5")
 		(at 198.0898 200.7776 90)
@@ -15756,7 +15756,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "6a76a635-a5b0-4cc3-9b4e-19c69d3b421e")
 		(at 256.81 146.05)
@@ -15897,7 +15897,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-B3F-10XX"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-B3F-10XX"
 		(layer "F.Cu")
 		(uuid "6d91afa8-933c-4c59-aff5-38acf2c9d187")
 		(at 227.631 210.1088 90)
@@ -16573,7 +16573,7 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+	(footprint "ESP32_Xbee_LoRa:MountingHole_3.2mm_M3_Pad_Via"
 		(layer "F.Cu")
 		(uuid "7042e9e7-c027-4421-8e28-36aeded870ce")
 		(at 105.41 66.04)
@@ -16746,7 +16746,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical"
+	(footprint "ESP32_Xbee_LoRa:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "72f987eb-8999-4942-8aaa-0b168ad12db3")
 		(at 156.51 207.05 -90)
@@ -17024,7 +17024,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "741db1ad-76ad-46b2-ad38-d0db0520e63c")
 		(at 122.741 125.7373)
@@ -17165,7 +17165,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "7469aa1e-ba76-4339-8b6a-05734e783f4c")
 		(at 267.7 197.51)
@@ -17306,7 +17306,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-140CLH-1010"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-140CLH-1010"
 		(layer "F.Cu")
 		(uuid "748249be-80c9-49e3-9a5b-e881a521253f")
 		(at 152.9938 76.8 180)
@@ -17589,7 +17589,7 @@
 			)
 		)
 	)
-	(footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "775247fb-4c8f-49ed-b54d-e0a87248cbb0")
 		(at 226.75 188.95 90)
@@ -17794,7 +17794,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-FRS1B"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-FRS1B"
 		(layer "F.Cu")
 		(uuid "77798ad3-e388-4ede-906f-144bf64f7ac7")
 		(at 282.067 144.78 180)
@@ -18231,7 +18231,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-23"
+	(footprint "ESP32_Xbee_LoRa:SOT-23"
 		(layer "F.Cu")
 		(uuid "79f34ec4-3d7f-43a9-80c4-a2529858eb99")
 		(at 117.911 110.8873)
@@ -18593,7 +18593,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "79fbbd78-bbf5-4152-9ab4-0423173346eb")
 		(at 223.9852 200.7776 90)
@@ -18734,7 +18734,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "7ae9f241-cb4b-413d-995f-d499da57f548")
 		(at 213.765 183.77 90)
@@ -18875,7 +18875,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "7e930433-f6b0-4232-be54-a4a962660df8")
 		(at 132.901 114.3073)
@@ -19016,7 +19016,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-B3F-10XX"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-B3F-10XX"
 		(layer "F.Cu")
 		(uuid "7f01df4c-6e90-4adf-ab7e-dd16f3f1ccf8")
 		(at 220.3826 210.1088 90)
@@ -19692,7 +19692,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "7f0e60fb-fef2-4115-82c2-1962dd2d808c")
 		(at 230.28 182.87 90)
@@ -19833,7 +19833,7 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+	(footprint "ESP32_Xbee_LoRa:MountingHole_3.2mm_M3_Pad_Via"
 		(layer "F.Cu")
 		(uuid "7f1827e0-8bb7-4003-83ad-23b934e2c66b")
 		(at 106.252944 215.472944)
@@ -20006,7 +20006,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "7fb94e28-3f32-42b9-a1a9-8cca902a9927")
 		(at 202.51 188.95 90)
@@ -20211,7 +20211,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "8397eca8-c5b9-4eb8-a82e-ae013007a646")
 		(at 216.715 183.77 90)
@@ -20352,7 +20352,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "844dd352-28c3-4a38-b7f8-d78c05a367b4")
 		(at 115.3375 156.68)
@@ -20493,7 +20493,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-B3F-10XX"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-B3F-10XX"
 		(layer "F.Cu")
 		(uuid "89040905-3d09-4ad5-8048-71f85a8b1752")
 		(at 198.6374 210.1088 90)
@@ -21169,7 +21169,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-B3F-10XX"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-B3F-10XX"
 		(layer "F.Cu")
 		(uuid "8c350d01-866a-45d8-a158-c36899cd6b11")
 		(at 191.389 210.1088 90)
@@ -21845,7 +21845,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "8cbf1e9e-896d-42df-9374-e4d4e6e641c4")
 		(at 256.81 143.1)
@@ -21986,7 +21986,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "8d31e479-e2d7-45b6-ad73-e102a2a8ed1b")
 		(at 194.98 123.19)
@@ -22127,7 +22127,7 @@
 			)
 		)
 	)
-	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+	(footprint "ESP32_Xbee_LoRa:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "8e7e36a5-9b4b-4135-9838-a06bd2d0b7aa")
 		(at 261.88 139.7 90)
@@ -22386,7 +22386,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "8faca36d-e536-43a7-9f30-76a0b703862a")
 		(at 229.8852 200.7776 90)
@@ -22527,7 +22527,7 @@
 			)
 		)
 	)
-	(footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "928bb222-2a3a-4f87-90ed-4830e771ffcb")
 		(at 218.67 188.95 90)
@@ -22732,7 +22732,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:TO-263-5_TabPin3"
+	(footprint "ESP32_Xbee_LoRa:TO-263-5_TabPin3"
 		(layer "F.Cu")
 		(uuid "940a9318-f5c3-43d1-8c59-f3d3c7958018")
 		(at 132.225 80.845 180)
@@ -23156,7 +23156,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "97778795-127b-47a4-be59-eb6ece7d392e")
 		(at 115.3375 150.66)
@@ -23297,7 +23297,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_THT:TO-92_Inline"
+	(footprint "ESP32_Xbee_LoRa:TO-92_Inline"
 		(layer "F.Cu")
 		(uuid "988aec9f-b5e4-41ad-aa6f-81739dae34db")
 		(at 295.91 167.64 90)
@@ -23517,7 +23517,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-23"
+	(footprint "ESP32_Xbee_LoRa:SOT-23"
 		(layer "F.Cu")
 		(uuid "9ba077bb-171b-41fe-8f93-04ca544c57bf")
 		(at 249.81 129.9)
@@ -23908,7 +23908,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-B3F-10XX"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-B3F-10XX"
 		(layer "F.Cu")
 		(uuid "9e2ae9e5-47c1-41b7-8547-7a1b0e94c113")
 		(at 242.1278 210.1088 90)
@@ -24584,7 +24584,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "9f6ddce9-b7ed-49a8-9635-15ac44b3e07d")
 		(at 232.8352 200.7776 90)
@@ -24725,7 +24725,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "9f9f7b0b-d520-4583-8f01-a0da2ec638ad")
 		(at 201.965 183.77 90)
@@ -24866,7 +24866,7 @@
 			)
 		)
 	)
-	(footprint "Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical"
+	(footprint "ESP32_Xbee_LoRa:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "a0f7f621-0894-4854-9e5f-fce2a179e8c8")
 		(at 156.51 191.81 -90)
@@ -25144,7 +25144,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-CA6V"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-CA6V"
 		(layer "F.Cu")
 		(uuid "a17dc827-9a6d-493e-a636-feab98ae589f")
 		(at 285.4448 210.66)
@@ -25720,7 +25720,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical"
+	(footprint "ESP32_Xbee_LoRa:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "a1b9bad3-e3d6-4ac5-b988-f88e1383e800")
 		(at 281.64 184.11 90)
@@ -25998,7 +25998,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "a52d3df7-0a48-47a3-a754-afdb4f984985")
 		(at 310.4215 461.9985 90)
@@ -26139,7 +26139,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-B3F-10XX"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-B3F-10XX"
 		(layer "F.Cu")
 		(uuid "a7641a88-36f1-4c91-a6ac-f7b82567cca5")
 		(at 234.8794 210.1088 90)
@@ -26815,7 +26815,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-ML10-CONTROLLER"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-ML10-CONTROLLER"
 		(layer "F.Cu")
 		(uuid "a7feebaf-7b76-4c45-a603-ae04fabfe136")
 		(at 166.357 171.442)
@@ -27712,7 +27712,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-23"
+	(footprint "ESP32_Xbee_LoRa:SOT-23"
 		(layer "F.Cu")
 		(uuid "a8db571a-00c3-41ed-9638-49b87141beac")
 		(at 117.911 128.6873)
@@ -28103,7 +28103,7 @@
 			)
 		)
 	)
-	(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal"
+	(footprint "ESP32_Xbee_LoRa:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a9b84cb6-79fa-4915-8087-efa41e0f3137")
 		(at 293.37 151.13 90)
@@ -28494,7 +28494,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "aa4430b8-1004-4c01-a5f4-632e37e9cb32")
 		(at 143.9475 109.81)
@@ -28635,7 +28635,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "aaf96750-a15e-4a19-bc18-6e1f427f3d41")
 		(at 134.29 107.27)
@@ -28776,7 +28776,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "ab723d8f-e4c3-48c7-877d-265fda10756d")
 		(at 256.81 134.25)
@@ -28917,7 +28917,7 @@
 			)
 		)
 	)
-	(footprint "Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical"
+	(footprint "ESP32_Xbee_LoRa:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "ac4e8515-b06c-4d96-8b24-6ac6db51759f")
 		(at 127.41 206.23 -90)
@@ -29206,7 +29206,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "ac57069b-e2fe-4c8c-bc71-182a4cb11459")
 		(at 115.3375 153.67)
@@ -29347,7 +29347,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "aca27a66-acf9-4d66-870b-2726ffa115df")
 		(at 195.1398 200.7776 90)
@@ -29488,7 +29488,7 @@
 			)
 		)
 	)
-	(footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "ad71e8e7-1dfd-4acd-8cc7-153725a46502")
 		(at 210.59 188.95 90)
@@ -29693,7 +29693,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-CA6V"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-CA6V"
 		(layer "F.Cu")
 		(uuid "b333f3bb-3665-4f57-a549-49514fe76e15")
 		(at 274.2424 210.66)
@@ -30269,7 +30269,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-23"
+	(footprint "ESP32_Xbee_LoRa:SOT-23"
 		(layer "F.Cu")
 		(uuid "b46beabd-91e8-4d48-b0ee-09b349748eeb")
 		(at 117.911 115.3373)
@@ -30631,7 +30631,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-ML10_INTERFACE"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-ML10_INTERFACE"
 		(layer "F.Cu")
 		(uuid "b67b92a0-a2b6-4cd2-b524-45a5c4e2f0af")
 		(at 181.61 207.01)
@@ -31526,7 +31526,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-23"
+	(footprint "ESP32_Xbee_LoRa:SOT-23"
 		(layer "F.Cu")
 		(uuid "b867f9d8-81a6-4433-8b03-2e796c869bd1")
 		(at 117.911 124.2373)
@@ -31917,7 +31917,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "bab6d8bd-24f7-4b34-9510-21e5323e2e14")
 		(at 204.915 183.77 90)
@@ -32058,7 +32058,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-FRS1B"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-FRS1B"
 		(layer "F.Cu")
 		(uuid "bb6f53f7-f49d-46d1-8737-41a246f87f6a")
 		(at 282.067 128.27 180)
@@ -32495,7 +32495,7 @@
 			)
 		)
 	)
-	(footprint "Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical"
+	(footprint "ESP32_Xbee_LoRa:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "bb970656-6136-4a09-a65d-8ef83eaf61f7")
 		(at 242.57 132.2 -90)
@@ -32784,7 +32784,7 @@
 			)
 		)
 	)
-	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+	(footprint "ESP32_Xbee_LoRa:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "bf472fba-3bd3-4a92-80da-763a307e6810")
 		(at 265.43 139.7 90)
@@ -33043,7 +33043,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-LED5MMRGB"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-LED5MMRGB"
 		(layer "F.Cu")
 		(uuid "c2320189-a444-425e-bfc9-3d20e5401b9f")
 		(at 273.1785 193.8735)
@@ -33189,7 +33189,7 @@
 			)
 		)
 	)
-	(footprint "Connector_JST:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical"
+	(footprint "ESP32_Xbee_LoRa:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "c37116ec-9ca1-459d-8541-3de6c61f3e1b")
 		(at 127.41 189.18 -90)
@@ -33489,7 +33489,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-B3F-10XX"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-B3F-10XX"
 		(layer "F.Cu")
 		(uuid "c3cb5918-2a05-45b4-ad1d-1e4c991de2ee")
 		(at 213.1342 210.1088 90)
@@ -34165,7 +34165,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "c3e8f794-23b6-4fec-9561-b37bbf793b15")
 		(at 256.81 137.2)
@@ -34306,7 +34306,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "c4b19568-d0ac-4511-97f3-3486f359770a")
 		(at 201.0398 200.7776 90)
@@ -34447,7 +34447,7 @@
 			)
 		)
 	)
-	(footprint "Connector_JST:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical"
+	(footprint "ESP32_Xbee_LoRa:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "c525e750-77f5-4f9b-8c5e-a0ce01ee6b56")
 		(at 251.16 192.8 90)
@@ -34747,7 +34747,7 @@
 			)
 		)
 	)
-	(footprint "nitin:OLED I2C"
+	(footprint "ESP32_Xbee_LoRa:OLED I2C"
 		(layer "F.Cu")
 		(uuid "ccbf7c36-d8fc-4c4c-94f3-d98f3ef5bb1d")
 		(at 211.93 78.92)
@@ -35031,7 +35031,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm"
+	(footprint "ESP32_Xbee_LoRa:SOIC-16_3.9x9.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "cd71f292-7e97-4508-a3d9-b75fbaad11e4")
 		(at 145.0775 123.825)
@@ -35476,7 +35476,7 @@
 			)
 		)
 	)
-	(footprint "nitin:esp 32 wroom module"
+	(footprint "ESP32_Xbee_LoRa:esp 32 wroom module"
 		(layer "F.Cu")
 		(uuid "d14d5e0e-eae0-42fe-9501-3b25341c17de")
 		(at 134.052371 163.813256 180)
@@ -36134,7 +36134,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Connector_JST:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical"
+	(footprint "ESP32_Xbee_LoRa:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "d1c05e96-ddcf-4976-8da0-d9947a957300")
 		(at 251.46 210.66 90)
@@ -36434,7 +36434,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "d6548782-66d6-4cec-867a-558a57a9826e")
 		(at 121.32 103.46 90)
@@ -36575,7 +36575,7 @@
 			)
 		)
 	)
-	(footprint "OptoDevice:R_LDR_5.1x4.3mm_P3.4mm_Vertical"
+	(footprint "ESP32_Xbee_LoRa:R_LDR_5.1x4.3mm_P3.4mm_Vertical"
 		(layer "F.Cu")
 		(uuid "d7a4ead5-80cd-4925-86aa-3251f9bd6522")
 		(at 296.08 183.23 90)
@@ -36932,7 +36932,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-23"
+	(footprint "ESP32_Xbee_LoRa:SOT-23"
 		(layer "F.Cu")
 		(uuid "de1f0d54-fa41-4a1a-883a-16be5350a5b6")
 		(at 249.81 143.25)
@@ -37323,7 +37323,7 @@
 			)
 		)
 	)
-	(footprint "Diode_THT:D_DO-201AD_P15.24mm_Horizontal"
+	(footprint "ESP32_Xbee_LoRa:D_DO-201AD_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "de2c7e47-45d6-4aa4-b31d-8b61b0fbf38b")
 		(at 129.54 96.52)
@@ -37582,7 +37582,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "de5de068-d086-4229-8689-0026a0863698")
 		(at 227.33 182.87 90)
@@ -37723,7 +37723,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "e3caa031-8f7d-4656-a122-3dee9db3fe65")
 		(at 190.23 123.19)
@@ -37864,7 +37864,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "e5a3a454-3870-4ccd-87a0-e967d6a1476e")
 		(at 256.81 140.15)
@@ -38005,7 +38005,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-CA6V"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-CA6V"
 		(layer "F.Cu")
 		(uuid "e7642191-7c39-4910-8326-d8be4bdea1ea")
 		(at 263.04 210.66)
@@ -38581,7 +38581,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "ea8c7f85-5a7e-42be-bd90-0003801a5101")
 		(at 190.23 120.24)
@@ -38722,7 +38722,7 @@
 			)
 		)
 	)
-	(footprint "LOGSUN:LGS-KC-ML10-CONTROLLER"
+	(footprint "ESP32_Xbee_LoRa:LGS-KC-ML10-CONTROLLER"
 		(layer "F.Cu")
 		(uuid "f175c542-3010-4377-957e-0ae421fde1bc")
 		(at 166.23 147.312)
@@ -39619,7 +39619,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Crystal:Crystal_HC49-4H_Vertical"
+	(footprint "ESP32_Xbee_LoRa:Crystal_HC49-4H_Vertical"
 		(layer "F.Cu")
 		(uuid "f23df5a8-e18a-4beb-92cc-21c79f2d6e77")
 		(at 137.2725 130.61 90)
@@ -39847,7 +39847,7 @@
 			)
 		)
 	)
-	(footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "f5587345-b6a0-48ec-bdc9-bf768e8ae9ed")
 		(at 230.79 188.95 90)
@@ -40052,7 +40052,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "f6ff5166-f198-40b6-a3e2-692d8666c1f2")
 		(at 207.865 183.77 90)
@@ -40193,7 +40193,7 @@
 			)
 		)
 	)
-	(footprint "Connector_BarrelJack:BarrelJack_Horizontal"
+	(footprint "ESP32_Xbee_LoRa:BarrelJack_Horizontal"
 		(layer "F.Cu")
 		(uuid "f9b270ca-305b-42c7-9eb3-6fadcbd57811")
 		(at 109.94 78.3825)
@@ -40578,7 +40578,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "fb7fea1d-72fa-410a-962e-42b3da537ab1")
 		(at 118.3425 137.16)
@@ -40719,7 +40719,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "fc1a5d90-d01f-4bfe-8b98-ec56eff27486")
 		(at 190.23 134.99)
@@ -40860,7 +40860,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "14b06dd7-3e06-49bc-968e-fcd4377f6c67")
 		(at 280.11 197.845)
@@ -41006,7 +41006,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "5b01a9b2-eabf-4350-8fac-d57a6bcfdbe3")
 		(at 280.11 194.835)
@@ -41152,7 +41152,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+	(footprint "ESP32_Xbee_LoRa:SOT-223-3_TabPin2"
 		(layer "B.Cu")
 		(uuid "950adef6-fe37-4e6c-b2ed-79ec0796bfb7")
 		(at 289.56 195.58)
@@ -41422,7 +41422,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+	(footprint "ESP32_Xbee_LoRa:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "B.Cu")
 		(uuid "f076d1a4-3996-4b9a-811c-5298a79fbeaf")
 		(at 280.11 191.825)
@@ -41568,7 +41568,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+	(footprint "ESP32_Xbee_LoRa:SOT-223-3_TabPin2"
 		(layer "B.Cu")
 		(uuid "ff713574-f218-4f65-84f5-d82fc25b973c")
 		(at 151.8 104.73 90)

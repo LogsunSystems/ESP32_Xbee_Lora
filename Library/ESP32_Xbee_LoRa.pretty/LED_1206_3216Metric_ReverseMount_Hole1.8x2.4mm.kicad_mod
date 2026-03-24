@@ -1,0 +1,234 @@
+(footprint "LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "LED SMD 1206 (3216 Metric), reverse mount, square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
+	(tags "diode reverse")
+	(property "Reference" "REF**"
+		(at 0 -2.145 0)
+		(layer "F.SilkS")
+		(uuid "fac072fc-99d1-4a8f-bd58-0fc1c73ed739")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Yellow"
+		(at 0 2.145 0)
+		(layer "F.Fab")
+		(uuid "9247a852-a94d-4e52-8070-79b29e50b528")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "~"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c0165cde-3279-4465-bf2d-561e93d550f9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Light emitting diode, small symbol"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1331c9c8-ce97-4cc6-ac7c-43436e035246")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Pins" "1=K 2=A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "efd170b8-1fe3-4ed3-8d15-1a6e2664be62")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.285 -1.46)
+		(end -2.285 1.46)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "61078f11-ddf5-4ba6-82c6-a44d1dc148fe")
+	)
+	(fp_line
+		(start -2.285 1.46)
+		(end 1.6 1.46)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "455a59e0-bef3-4113-809a-a6abcec366f9")
+	)
+	(fp_line
+		(start 1.6 -1.46)
+		(end -2.285 -1.46)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "35d035e2-915b-4681-934e-51f6199fd26f")
+	)
+	(fp_line
+		(start -2.28 -1.46)
+		(end 2.28 -1.46)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e1abf93f-61ba-47b9-86f6-c3163065f4a6")
+	)
+	(fp_line
+		(start -2.28 1.46)
+		(end -2.28 -1.46)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ade128a1-7d63-47bc-af1c-f80ce01db15a")
+	)
+	(fp_line
+		(start 2.28 -1.46)
+		(end 2.28 1.46)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "62ca317d-9aab-4dec-abcf-a48275daf2cb")
+	)
+	(fp_line
+		(start 2.28 1.46)
+		(end -2.28 1.46)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "24e8c1d6-8a20-473c-9f9d-5545b9445228")
+	)
+	(fp_line
+		(start -1.6 -0.4)
+		(end -1.6 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "dee4de4a-57b0-47d5-91e3-fa423af277eb")
+	)
+	(fp_line
+		(start -1.6 0.8)
+		(end 1.6 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3c55e825-bad3-4662-ada2-946269604eb3")
+	)
+	(fp_line
+		(start -1.2 -0.8)
+		(end -1.6 -0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d7f5d302-69b3-4ad3-aaef-4b3951da3aa7")
+	)
+	(fp_line
+		(start 1.6 -0.8)
+		(end -1.2 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "53f58b26-9393-4935-a7c2-fc7d139f23ed")
+	)
+	(fp_line
+		(start 1.6 0.8)
+		(end 1.6 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9ed64852-376a-4022-98dc-3b71a89b8b9a")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "208d650e-da5e-45d6-ae96-01c7ccedf2a1")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(pad "" np_thru_hole oval
+		(at 0 0)
+		(size 1.8 2.4)
+		(drill oval 1.8 2.4)
+		(layers "*.Cu" "*.Mask")
+		(uuid "eec8329d-5139-4121-9692-2d8cc724e8a7")
+	)
+	(pad "1" smd roundrect
+		(at -1.55 0)
+		(size 0.95 1.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.2)
+		(uuid "3e499529-f40d-459d-afe0-b9403a800ca1")
+	)
+	(pad "2" smd roundrect
+		(at 1.55 0)
+		(size 0.95 1.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.2)
+		(uuid "73abaab3-bacb-47b5-9745-f54e1a5c3f8a")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1206_3216Metric_ReverseMount.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

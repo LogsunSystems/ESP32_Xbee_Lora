@@ -11,7 +11,7 @@
 		(company "Logsun Systems")
 	)
 	(lib_symbols
-		(symbol "Logsun_Logo:LOGO"
+		(symbol "ESP32_Xbee_LoRa:LOGO"
 			(pin_names
 				(offset 1.016)
 			)
@@ -620,7 +620,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Logsun_Logo:LOGO")
+		(lib_id "ESP32_Xbee_LoRa:LOGO")
 		(at 255.27 173.99 0)
 		(unit 1)
 		(exclude_from_sim no)

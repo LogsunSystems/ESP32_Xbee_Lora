@@ -1,0 +1,350 @@
+(footprint "R_LDR_5.1x4.3mm_P3.4mm_Vertical"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Resistor, LDR 5.1x3.4mm, see http://yourduino.com/docs/Photoresistor-5516-datasheet.pdf")
+	(tags "Resistor LDR5.1x3.4mm")
+	(property "Reference" "REF**"
+		(at 1.7 -2.9 0)
+		(layer "F.SilkS")
+		(uuid "c87ff1a4-b4eb-4a26-b8c6-3bb688a7d19e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LDR07"
+		(at 1.5 3 0)
+		(layer "F.Fab")
+		(uuid "e57dc8d8-cbcc-43fc-9fdd-b1c0ac86094e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "http://www.tme.eu/de/Document/f2e3ad76a925811312d226c31da4cd7e/LDR07.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d7ad639c-bfd8-4b88-ae17-541192cf9490")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "light dependent resistor"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7e1c69fb-42a9-46ed-a47f-d40dfd452c67")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 0.15 -2.15)
+		(end 3.2 -2.15)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bdfca8bc-4f86-4ade-baea-628448c2671b")
+	)
+	(fp_line
+		(start 0.15 2.15)
+		(end 3.2 2.15)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5ea436ec-aa33-4105-a5a9-0b97c29c2816")
+	)
+	(fp_arc
+		(start 0.15 2.15)
+		(mid -0.950438 -0.013368)
+		(end 0.171766 -2.165525)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a41fbdfb-02f1-4e97-abc0-3d5621f84fba")
+	)
+	(fp_arc
+		(start 3.2 -2.15)
+		(mid 4.321403 -0.027338)
+		(end 3.244513 2.118249)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "089bc08a-7bba-4e48-8863-bcc50c4976f1")
+	)
+	(fp_line
+		(start -1.13 -2.35)
+		(end -1.13 2.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "868ef52a-be84-4990-9805-372ba1bce398")
+	)
+	(fp_line
+		(start -1.13 -2.35)
+		(end 4.53 -2.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "631e23a6-fcfd-44de-a6d9-d4fcdb3fe918")
+	)
+	(fp_line
+		(start 4.53 2.35)
+		(end -1.13 2.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e6077493-be56-440f-9b67-b102c484ff08")
+	)
+	(fp_line
+		(start 4.53 2.35)
+		(end 4.53 -2.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f29f03ab-a6ec-4729-ad80-25d9ed480209")
+	)
+	(fp_line
+		(start 0.2 -2.1)
+		(end 3.2 -2.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2ad69830-0fd8-40ad-b34c-c02a12dbbf97")
+	)
+	(fp_line
+		(start 0.8 -1.8)
+		(end 2.6 -1.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fee5b7b2-d69b-4708-bf04-12a3e766696d")
+	)
+	(fp_line
+		(start 0.8 -1.2)
+		(end 0.8 -0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d51c4b71-0000-41c2-91cd-6975aff7d07b")
+	)
+	(fp_line
+		(start 0.8 1.2)
+		(end 0.8 1.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b771584b-1fa9-4d2e-8f6f-34358cba34e6")
+	)
+	(fp_line
+		(start 0.8 1.8)
+		(end 2.6 1.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ed815997-a62b-4972-bce9-2a2b83ff40d9")
+	)
+	(fp_line
+		(start 1 0)
+		(end 1 0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bcd5acba-1d4e-4609-aa79-56120a973ddc")
+	)
+	(fp_line
+		(start 1 0)
+		(end 2.3 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5aa13a48-b9a1-4821-ad22-0717086e45b9")
+	)
+	(fp_line
+		(start 2.3 -0.6)
+		(end 0.8 -0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "597e0a8a-c818-464d-9e76-46e7f67004d7")
+	)
+	(fp_line
+		(start 2.3 0)
+		(end 2.3 -0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c416b2eb-0762-4a3c-9699-f930504f352b")
+	)
+	(fp_line
+		(start 2.6 -1.8)
+		(end 2.6 -1.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fd7ec8d0-31eb-473b-9e62-7f15bb19cc5d")
+	)
+	(fp_line
+		(start 2.6 -1.2)
+		(end 0.8 -1.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a3660fde-8aba-4326-ad88-6504de24f705")
+	)
+	(fp_line
+		(start 2.6 0.6)
+		(end 1 0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "94cb2296-d1f0-4692-b1b7-008115fd0b74")
+	)
+	(fp_line
+		(start 2.6 0.6)
+		(end 2.6 1.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e5cabc5e-8f81-4aec-af07-cc55ed3bdd24")
+	)
+	(fp_line
+		(start 2.6 1.2)
+		(end 0.8 1.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "73864403-d230-45c4-ae0d-8f81ba37ac3c")
+	)
+	(fp_line
+		(start 3.2 2.1)
+		(end 0.2 2.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c58eaa70-e3f9-4ed1-a96c-bef6c9aa204a")
+	)
+	(fp_arc
+		(start 0.2 2.1)
+		(mid -0.880697 -0.001697)
+		(end 0.202763 -2.101971)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "dd920c80-85cf-4b40-843f-e6070b0bc35e")
+	)
+	(fp_arc
+		(start 3.2 -2.1)
+		(mid 4.280697 0.001697)
+		(end 3.197237 2.101971)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b102584c-93c8-406f-b785-7a72fedcb2c4")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 1.7 -2.9 0)
+		(layer "F.Fab")
+		(uuid "f0033123-a531-4226-8253-afe9c59efe06")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.5 1.5)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1a7d45a8-9526-481c-ab56-9439e6b104dc")
+	)
+	(pad "2" thru_hole circle
+		(at 3.4 0)
+		(size 1.5 1.5)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d9e86688-614e-4c24-a98f-d30ca59cccb4")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/OptoDevice.3dshapes/R_LDR_5.1x4.3mm_P3.4mm_Vertical.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

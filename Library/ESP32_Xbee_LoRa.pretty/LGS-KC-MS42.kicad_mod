@@ -1,0 +1,319 @@
+(footprint "LGS-KC-MS42"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SMD <B>INDUCTOR</B>")
+	(property "Reference" "REF**"
+		(at -2.6587 1.9825 270)
+		(layer "F.SilkS")
+		(uuid "02aa8056-c120-4745-8be4-67504976bcbf")
+		(effects
+			(font
+				(size 0.93472 0.93472)
+				(thickness 0.08128)
+			)
+			(justify right top)
+		)
+	)
+	(property "Value" "220uH"
+		(at 11.7551 1.665 270)
+		(layer "F.Fab")
+		(uuid "89870ec6-3750-4d7b-a02d-212dd03a5823")
+		(effects
+			(font
+				(size 0.93472 0.93472)
+				(thickness 0.08128)
+			)
+			(justify right top)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "679ea916-0918-4a9e-bb68-e1ee193818fa")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9ff1f413-26a2-4cea-8c49-39365a42afde")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -2.2225 0.9525)
+		(end -2.2225 -7.7788)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cb765165-0c54-4c3b-9dab-a9f456f6d0c5")
+	)
+	(fp_line
+		(start -1.1236 -6.9325)
+		(end -1.1237 0.265)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f04cb2b0-49ad-4226-9a5c-5b0c15783e60")
+	)
+	(fp_line
+		(start -1.1113 -7.1437)
+		(end -0.3175 -7.9375)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fe85de65-b10b-42d3-a646-76aa28febf00")
+	)
+	(fp_line
+		(start -1.1113 -6.985)
+		(end -1.1113 -7.1437)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a23e9a25-dee9-4013-b7cf-8b5595ba8295")
+	)
+	(fp_line
+		(start -1.1113 0.3175)
+		(end -1.1113 0.4763)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "54c07a8a-24f9-41ef-b3da-894d13d81b19")
+	)
+	(fp_line
+		(start -1.1113 0.4763)
+		(end -0.4763 1.1113)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "90119f0a-c868-4cb1-8401-882376a27c28")
+	)
+	(fp_line
+		(start -0.9525 -9.0488)
+		(end 9.3662 -9.0488)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f051f0b6-114e-473e-bb90-144324edbb62")
+	)
+	(fp_line
+		(start -0.4238 1.1237)
+		(end 8.6788 1.1237)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9038b95f-a0f1-4636-9722-fa847e54eef2")
+	)
+	(fp_line
+		(start -0.265 -7.95)
+		(end 8.5201 -7.9501)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0fa1b5d7-457b-4d8b-a221-920c9a3f5d56")
+	)
+	(fp_line
+		(start 8.5725 -7.9375)
+		(end 8.8901 -7.9375)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3f4a249b-9a4a-40fb-9356-519925248ec5")
+	)
+	(fp_line
+		(start 8.7313 1.1113)
+		(end 9.3663 0.4763)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e0e2c6f9-7542-4b2e-92e9-64fbc49256ea")
+	)
+	(fp_line
+		(start 8.8901 -7.9375)
+		(end 9.3663 -7.4613)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ab78e8b1-3c4c-4acb-8e90-346c01453ee9")
+	)
+	(fp_line
+		(start 9.0487 2.2225)
+		(end -1.1113 2.2225)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "146a40b7-de02-462b-b0ae-96abae48c577")
+	)
+	(fp_line
+		(start 9.3663 -7.4613)
+		(end 9.3663 -6.8263)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ca3fc710-ef9b-4e17-8550-5d7851dd363d")
+	)
+	(fp_line
+		(start 9.3789 0.4238)
+		(end 9.3788 -6.9325)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7a152ca1-07d6-4527-9489-aebcb4c166f7")
+	)
+	(fp_line
+		(start 10.4775 -7.9375)
+		(end 10.4775 0.9525)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dabddd3e-72ec-4154-96b9-812c0633267d")
+	)
+	(fp_arc
+		(start -2.2225 -7.7788)
+		(mid -1.850555 -8.676855)
+		(end -0.9525 -9.0488)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b3a55a84-043c-416c-b780-f25be3b6647e")
+	)
+	(fp_arc
+		(start -1.111299 2.2225)
+		(mid -1.929955 1.817663)
+		(end -2.2225 0.9525)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c6747627-0769-4538-816f-e608e500e464")
+	)
+	(fp_arc
+		(start 9.3662 -9.0488)
+		(mid 10.152008 -8.723308)
+		(end 10.4775 -7.9375)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7a0b795d-f75c-4e34-8bb7-5fb5b6e3d42e")
+	)
+	(fp_arc
+		(start 10.4775 0.9525)
+		(mid 10.026177 1.883473)
+		(end 9.048698 2.2225)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ad8244b3-a489-4af2-b083-74f1f423c9e2")
+	)
+	(fp_text user "1"
+		(at -1.7 1.9 0)
+		(layer "F.SilkS")
+		(uuid "eb1ec9a5-6411-47e7-b90d-4b691b26e6a5")
+		(effects
+			(font
+				(size 0.560832 0.560832)
+				(thickness 0.048768)
+			)
+			(justify left bottom)
+		)
+	)
+	(pad "1" smd rect
+		(at 4.1275 -8.1737)
+		(size 6 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 45)
+		(uuid "5ea52998-94ae-4854-8c47-5f4655879661")
+	)
+	(pad "2" smd rect
+		(at 4.1274 1.3475)
+		(size 6 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 45)
+		(uuid "ba8db645-569b-457d-ab5f-2c05f5900996")
+	)
+	(pad "P1" thru_hole oval
+		(at 4.1275 -10.16)
+		(size 2.7 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 45)
+		(uuid "e520991e-f5ef-4d59-8ce2-577c829d5dad")
+	)
+	(pad "P2" thru_hole oval
+		(at 4.1275 3.175)
+		(size 2.7 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 45)
+		(uuid "6ddc2c3b-3fe4-4aa6-bee8-b80eeac79d6c")
+	)
+	(embedded_fonts no)
+	(model "C:/Program Files/KiCad/7.0/share/kicad/3dmodels/Inductor_SMD.3dshapes/L_Bourns_SRR1260.step"
+		(offset
+			(xyz 4 3 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -90)
+		)
+	)
+)

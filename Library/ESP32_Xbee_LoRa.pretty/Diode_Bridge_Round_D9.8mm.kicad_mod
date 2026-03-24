@@ -1,0 +1,194 @@
+(footprint "Diode_Bridge_Round_D9.8mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "4-lead round diode bridge package, diameter 9.8mm, pin pitch 5.08mm, see http://www.vishay.com/docs/88769/woo5g.pdf")
+	(tags "diode bridge 9.8mm WOG pitch 5.08mm")
+	(property "Reference" "REF**"
+		(at 2.54 -3.302 0)
+		(layer "F.SilkS")
+		(uuid "34af2518-8959-4e5b-9542-e3c4b513eb60")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "W10G"
+		(at 2.6035 8.509 0)
+		(layer "F.Fab")
+		(uuid "3fb12168-2c5a-4da5-9ed2-1e7a70f09e35")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.vishay.com/docs/88769/woo5g.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ca9d2a57-bd48-4dd5-a1a9-624e02927f8d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Glass Passivated Single-Phase Bridge Rectifier, 700V Vrms, 1.5A If, WOG package"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2252c706-5cb7-4550-9781-1bd86c9082ec")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.524 -0.381)
+		(end -1.524 5.461)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ea7c7f06-d11f-454f-86ef-b0b492c92587")
+	)
+	(fp_arc
+		(start -0.381 -1.524)
+		(mid 7.479141 3.348223)
+		(end -1.524 5.461)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d0a15c1c-ec37-479e-9511-6c18e0e31212")
+	)
+	(fp_line
+		(start -1.65 -2.61)
+		(end -1.65 7.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5f65f3f1-db54-452e-930f-cc14ab06a761")
+	)
+	(fp_line
+		(start -1.65 -2.61)
+		(end 7.7 -2.61)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ebb3c7f8-6a84-4607-a7f9-c087653d9029")
+	)
+	(fp_line
+		(start 7.7 7.7)
+		(end -1.65 7.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "778ddbac-a5e6-4ba5-a151-07a38988f47c")
+	)
+	(fp_line
+		(start 7.7 7.7)
+		(end 7.7 -2.61)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c3bd1da1-947e-42d4-b862-2f377904cdb6")
+	)
+	(fp_line
+		(start -1.397 5.461)
+		(end -1.397 -0.381)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "15010bab-066d-4ffd-9bf6-1ff6f1db48e1")
+	)
+	(fp_arc
+		(start -1.4 -0.38)
+		(mid 7.444079 2.54366)
+		(end -1.404354 5.454115)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "93bf5a95-86e3-4817-9abd-df4c11f476a6")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 3.81 2.54 0)
+		(layer "F.Fab")
+		(uuid "f6d8b622-623c-4650-87f9-99cab6f77d3b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "152ec1a8-9d69-4a1a-9c46-b1813d47e08b")
+	)
+	(pad "2" thru_hole oval
+		(at 0 5.08)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d1014d05-05b3-4f60-a0ff-192b2b33aa6f")
+	)
+	(pad "3" thru_hole oval
+		(at 5.08 5.08)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "73460cbc-b603-41e9-bedf-ac7af8108cf5")
+	)
+	(pad "4" thru_hole oval
+		(at 5.08 0)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6b9fa042-ac62-4030-a85b-f2aaa62f3dde")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_Round_D9.8mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
