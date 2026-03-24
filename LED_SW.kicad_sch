@@ -4203,7 +4203,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 54.61 66.04 90)
 			(effects
 				(font
@@ -4551,7 +4551,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 29.21 66.04 90)
 			(effects
 				(font
@@ -4656,34 +4656,34 @@
 			)
 		)
 		(pin "4"
-			(uuid "074b2066-6a64-4c16-a1bc-c131a1b480a0")
+			(uuid "074b2066-6a64-4c16-a1bc-c131a1b480a1")
 		)
 		(pin "6"
-			(uuid "c51b0bd4-35fa-4ce4-ba0d-36b5ba921a91")
+			(uuid "c51b0bd4-35fa-4ce4-ba0d-36b5ba921a92")
 		)
 		(pin "8"
-			(uuid "a18cbb83-b484-4f05-b88f-da1d9825186a")
+			(uuid "a18cbb83-b484-4f05-b88f-da1d9825186b")
 		)
 		(pin "5"
-			(uuid "12c667f8-9e72-49e5-808f-d754db3b333d")
+			(uuid "12c667f8-9e72-49e5-808f-d754db3b333e")
 		)
 		(pin "10"
-			(uuid "6677e798-0db6-480e-bb8f-8dfd8943b471")
+			(uuid "6677e798-0db6-480e-bb8f-8dfd8943b472")
 		)
 		(pin "9"
-			(uuid "b096809a-10ab-4ede-bc7f-d913b4412bea")
+			(uuid "b096809a-10ab-4ede-bc7f-d913b4412beb")
 		)
 		(pin "3"
-			(uuid "8710a5ab-d6ed-4f26-96fc-d03f02c3eaf6")
+			(uuid "8710a5ab-d6ed-4f26-96fc-d03f02c3eaf7")
 		)
 		(pin "1"
-			(uuid "0c5589c5-0eb7-40e5-91dc-ad3f21c4bfed")
+			(uuid "0c5589c5-0eb7-40e5-91dc-ad3f21c4bfee")
 		)
 		(pin "7"
-			(uuid "1392ec25-e93e-4e86-b401-d43bde1e2546")
+			(uuid "1392ec25-e93e-4e86-b401-d43bde1e2547")
 		)
 		(pin "2"
-			(uuid "52057b7a-4381-4758-9938-0b057dd42a76")
+			(uuid "52057b7a-4381-4758-9938-0b057dd42a77")
 		)
 		(instances
 			(project ""
@@ -4859,7 +4859,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 92.71 66.04 90)
 			(effects
 				(font
@@ -5069,7 +5069,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 118.11 66.04 90)
 			(effects
 				(font
@@ -5284,7 +5284,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 80.01 66.04 90)
 			(effects
 				(font
@@ -5637,7 +5637,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 67.31 66.04 90)
 			(effects
 				(font
@@ -5850,7 +5850,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 105.41 66.04 90)
 			(effects
 				(font
@@ -5927,7 +5927,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 41.91 66.04 90)
 			(effects
 				(font

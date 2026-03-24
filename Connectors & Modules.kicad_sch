@@ -1826,6 +1826,89 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:+5V"
 			(power)
 			(pin_numbers
@@ -3231,6 +3314,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 165.1 88.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "282694da-6fb2-408d-abc6-2bac4746c3ee")
+		(property "Reference" "H3"
+			(at 167.64 87.6299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 167.64 90.1699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+			(at 165.1 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 165.1 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 165.1 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/99e6c4b3-8320-4218-aa5a-41657e7e07c6/0277d16f-7bc8-4de9-be5c-c06802e62271"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 274.32 25.4 0)
 		(unit 1)
@@ -3632,6 +3779,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 162.56 74.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "65383ab9-f7a2-4a77-87e0-a5482b28b7a6")
+		(property "Reference" "H2"
+			(at 165.1 73.6599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 165.1 76.1999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+			(at 162.56 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 162.56 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 162.56 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/99e6c4b3-8320-4218-aa5a-41657e7e07c6/0277d16f-7bc8-4de9-be5c-c06802e62271"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LOGSUN:LGS-KC-ML10-CONTROLLER")
 		(at 93.98 87.63 180)
 		(unit 1)
@@ -3684,34 +3895,34 @@
 			)
 		)
 		(pin "10"
-			(uuid "8d6ddabe-4802-40d5-9eb5-0cf644db6c36")
+			(uuid "8d6ddabe-4802-40d5-9eb5-0cf644db6c37")
 		)
 		(pin "3"
-			(uuid "c5223485-ae91-4591-9b62-d13bea4782dd")
+			(uuid "c5223485-ae91-4591-9b62-d13bea4782de")
 		)
 		(pin "2"
-			(uuid "be63c288-eaa5-4a07-807a-e752c48f3a10")
+			(uuid "be63c288-eaa5-4a07-807a-e752c48f3a11")
 		)
 		(pin "5"
-			(uuid "d90d3024-db0a-4b93-9260-3718d8c4c376")
+			(uuid "d90d3024-db0a-4b93-9260-3718d8c4c377")
 		)
 		(pin "1"
-			(uuid "6b25326b-7735-4604-93ff-bd2736f7fa2a")
+			(uuid "6b25326b-7735-4604-93ff-bd2736f7fa2b")
 		)
 		(pin "9"
-			(uuid "155a2241-c7de-424b-862f-ac9a644f69a6")
+			(uuid "155a2241-c7de-424b-862f-ac9a644f69a7")
 		)
 		(pin "6"
-			(uuid "c461868f-4361-47ea-8680-b6d57ace0222")
+			(uuid "c461868f-4361-47ea-8680-b6d57ace0223")
 		)
 		(pin "7"
-			(uuid "5d39aa06-bc0b-4251-b1ad-4eb9e2be1a65")
+			(uuid "5d39aa06-bc0b-4251-b1ad-4eb9e2be1a66")
 		)
 		(pin "4"
-			(uuid "765dd635-d84c-4699-985d-b3e3b788ec21")
+			(uuid "765dd635-d84c-4699-985d-b3e3b788ec22")
 		)
 		(pin "8"
-			(uuid "19e89def-1916-4c0d-9aa3-844453954459")
+			(uuid "19e89def-1916-4c0d-9aa3-84445395445a")
 		)
 		(instances
 			(project ""
@@ -4515,34 +4726,34 @@
 			)
 		)
 		(pin "10"
-			(uuid "8d6ddabe-4802-40d5-9eb5-0cf644db6c36")
+			(uuid "8d6ddabe-4802-40d5-9eb5-0cf644db6c38")
 		)
 		(pin "3"
-			(uuid "c5223485-ae91-4591-9b62-d13bea4782dd")
+			(uuid "c5223485-ae91-4591-9b62-d13bea4782df")
 		)
 		(pin "2"
-			(uuid "be63c288-eaa5-4a07-807a-e752c48f3a10")
+			(uuid "be63c288-eaa5-4a07-807a-e752c48f3a12")
 		)
 		(pin "5"
-			(uuid "d90d3024-db0a-4b93-9260-3718d8c4c376")
+			(uuid "d90d3024-db0a-4b93-9260-3718d8c4c378")
 		)
 		(pin "1"
-			(uuid "6b25326b-7735-4604-93ff-bd2736f7fa2a")
+			(uuid "6b25326b-7735-4604-93ff-bd2736f7fa2c")
 		)
 		(pin "9"
-			(uuid "155a2241-c7de-424b-862f-ac9a644f69a6")
+			(uuid "155a2241-c7de-424b-862f-ac9a644f69a8")
 		)
 		(pin "6"
-			(uuid "c461868f-4361-47ea-8680-b6d57ace0222")
+			(uuid "c461868f-4361-47ea-8680-b6d57ace0224")
 		)
 		(pin "7"
-			(uuid "5d39aa06-bc0b-4251-b1ad-4eb9e2be1a65")
+			(uuid "5d39aa06-bc0b-4251-b1ad-4eb9e2be1a67")
 		)
 		(pin "4"
-			(uuid "765dd635-d84c-4699-985d-b3e3b788ec21")
+			(uuid "765dd635-d84c-4699-985d-b3e3b788ec23")
 		)
 		(pin "8"
-			(uuid "19e89def-1916-4c0d-9aa3-844453954459")
+			(uuid "19e89def-1916-4c0d-9aa3-84445395445b")
 		)
 		(instances
 			(project ""
@@ -4606,16 +4817,16 @@
 			)
 		)
 		(pin "2"
-			(uuid "03a89fb0-5164-4e73-8a44-5107b619094e")
+			(uuid "03a89fb0-5164-4e73-8a44-5107b619094f")
 		)
 		(pin "1"
-			(uuid "006604b6-c0f6-4ecf-98ad-e468ecc6f930")
+			(uuid "006604b6-c0f6-4ecf-98ad-e468ecc6f931")
 		)
 		(pin "3"
-			(uuid "7bf9f130-a983-4925-8f84-21435a7a8c1f")
+			(uuid "7bf9f130-a983-4925-8f84-21435a7a8c20")
 		)
 		(pin "4"
-			(uuid "442464e0-0a76-4e00-a9d7-a6cc3a130da8")
+			(uuid "442464e0-0a76-4e00-a9d7-a6cc3a130da9")
 		)
 		(instances
 			(project ""
@@ -4756,13 +4967,13 @@
 			)
 		)
 		(pin "3"
-			(uuid "a0f85aba-e4e9-4bef-a1f7-aed00d1745ce")
+			(uuid "a0f85aba-e4e9-4bef-a1f7-aed00d1745cf")
 		)
 		(pin "2"
-			(uuid "2f67ce0d-39c2-4fbf-be1e-b70b0c6b9681")
+			(uuid "2f67ce0d-39c2-4fbf-be1e-b70b0c6b9682")
 		)
 		(pin "1"
-			(uuid "6d6d2c40-a88d-4aa0-baa1-483a1acebed7")
+			(uuid "6d6d2c40-a88d-4aa0-baa1-483a1acebed8")
 		)
 		(instances
 			(project ""
@@ -4832,6 +5043,134 @@
 			(project "ESP32_Xbee_Lora"
 				(path "/99e6c4b3-8320-4218-aa5a-41657e7e07c6/0277d16f-7bc8-4de9-be5c-c06802e62271"
 					(reference "#G3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 170.18 102.87 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d07e9295-ac16-4381-8559-ab46ad2f01e4")
+		(property "Reference" "H4"
+			(at 172.72 101.5999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 172.72 104.1399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+			(at 170.18 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 170.18 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 170.18 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/99e6c4b3-8320-4218-aa5a-41657e7e07c6/0277d16f-7bc8-4de9-be5c-c06802e62271"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 163.83 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d4a4044c-1eb8-42c1-9669-585cff16511d")
+		(property "Reference" "H1"
+			(at 166.37 62.2299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 166.37 64.7699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+			(at 163.83 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 163.83 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 163.83 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/99e6c4b3-8320-4218-aa5a-41657e7e07c6/0277d16f-7bc8-4de9-be5c-c06802e62271"
+					(reference "H1")
 					(unit 1)
 				)
 			)
